@@ -1,0 +1,23 @@
+C:\Users\khobr\OneDrive\Desktop\Ayush project\Library_System\Library_System\bin\Debug\Library_System.exe.config
+C:\Users\khobr\OneDrive\Desktop\Ayush project\Library_System\Library_System\bin\Debug\Library_System.exe
+C:\Users\khobr\OneDrive\Desktop\Ayush project\Library_System\Library_System\bin\Debug\Library_System.pdb
+C:\Users\khobr\OneDrive\Desktop\Ayush project\Library_System\Library_System\obj\Debug\Library_System.csproj.AssemblyReference.cache
+C:\Users\khobr\OneDrive\Desktop\Ayush project\Library_System\Library_System\obj\Debug\Library_System.Form1.resources
+C:\Users\khobr\OneDrive\Desktop\Ayush project\Library_System\Library_System\obj\Debug\Library_System.Properties.Resources.resources
+C:\Users\khobr\OneDrive\Desktop\Ayush project\Library_System\Library_System\obj\Debug\Library_System.csproj.GenerateResource.cache
+C:\Users\khobr\OneDrive\Desktop\Ayush project\Library_System\Library_System\obj\Debug\Library_System.csproj.CoreCompileInputs.cache
+C:\Users\khobr\OneDrive\Desktop\Ayush project\Library_System\Library_System\obj\Debug\Library_System.exe
+C:\Users\khobr\OneDrive\Desktop\Ayush project\Library_System\Library_System\obj\Debug\Library_System.pdb
+E:\Programm\C#\Library_System\Library_System\bin\Debug\Library_System.exe.config
+E:\Programm\C#\Library_System\Library_System\bin\Debug\Library_System.exe
+E:\Programm\C#\Library_System\Library_System\bin\Debug\Library_System.pdb
+E:\Programm\C#\Library_System\Library_System\obj\Debug\Library_System.csproj.AssemblyReference.cache
+E:\Programm\C#\Library_System\Library_System\obj\Debug\Library_System.Form1.resources
+E:\Programm\C#\Library_System\Library_System\obj\Debug\Library_System.Properties.Resources.resources
+E:\Programm\C#\Library_System\Library_System\obj\Debug\Library_System.csproj.GenerateResource.cache
+E:\Programm\C#\Library_System\Library_System\obj\Debug\Library_System.csproj.CoreCompileInputs.cache
+E:\Programm\C#\Library_System\Library_System\obj\Debug\Library_System.exe
+E:\Programm\C#\Library_System\Library_System\obj\Debug\Library_System.pdb
+E:\Programm\C#\Library_System\Library_System\obj\Debug\Library_System.Register.resources
+E:\Programm\C#\Library_System\Library_System\obj\Debug\Library_System.Library.resources
+E:\Programm\C#\Library_System\Library_System\obj\Debug\Library_System.Form2.resources

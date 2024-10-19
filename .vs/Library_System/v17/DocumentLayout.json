@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programm\\C#\\Library_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F61D9DD1-BEF4-475C-B330-0E536F3FA6D0}|Library_System\\Library_System.csproj|E:\\Programm\\C#\\Library_System\\library_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F61D9DD1-BEF4-475C-B330-0E536F3FA6D0}|Library_System\\Library_System.csproj|solutionrelative:library_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61D9DD1-BEF4-475C-B330-0E536F3FA6D0}|Library_System\\Library_System.csproj|e:\\programm\\c#\\library_system\\library_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61D9DD1-BEF4-475C-B330-0E536F3FA6D0}|Library_System\\Library_System.csproj|solutionrelative:library_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61D9DD1-BEF4-475C-B330-0E536F3FA6D0}|Library_System\\Library_System.csproj|E:\\Programm\\C#\\Library_System\\library_system\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61D9DD1-BEF4-475C-B330-0E536F3FA6D0}|Library_System\\Library_System.csproj|solutionrelative:library_system\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61D9DD1-BEF4-475C-B330-0E536F3FA6D0}|Library_System\\Library_System.csproj|E:\\Programm\\C#\\Library_System\\library_system\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F61D9DD1-BEF4-475C-B330-0E536F3FA6D0}|Library_System\\Library_System.csproj|solutionrelative:library_system\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61D9DD1-BEF4-475C-B330-0E536F3FA6D0}|Library_System\\Library_System.csproj|E:\\Programm\\C#\\Library_System\\library_system\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61D9DD1-BEF4-475C-B330-0E536F3FA6D0}|Library_System\\Library_System.csproj|solutionrelative:library_system\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61D9DD1-BEF4-475C-B330-0E536F3FA6D0}|Library_System\\Library_System.csproj|E:\\Programm\\C#\\Library_System\\library_system\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61D9DD1-BEF4-475C-B330-0E536F3FA6D0}|Library_System\\Library_System.csproj|solutionrelative:library_system\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61D9DD1-BEF4-475C-B330-0E536F3FA6D0}|Library_System\\Library_System.csproj|E:\\Programm\\C#\\Library_System\\library_system\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F61D9DD1-BEF4-475C-B330-0E536F3FA6D0}|Library_System\\Library_System.csproj|solutionrelative:library_system\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61D9DD1-BEF4-475C-B330-0E536F3FA6D0}|Library_System\\Library_System.csproj|E:\\Programm\\C#\\Library_System\\library_system\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61D9DD1-BEF4-475C-B330-0E536F3FA6D0}|Library_System\\Library_System.csproj|solutionrelative:library_system\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61D9DD1-BEF4-475C-B330-0E536F3FA6D0}|Library_System\\Library_System.csproj|E:\\Programm\\C#\\Library_System\\library_system\\library.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61D9DD1-BEF4-475C-B330-0E536F3FA6D0}|Library_System\\Library_System.csproj|solutionrelative:library_system\\library.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 174,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 233,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Library.Designer.cs",
+              "DocumentMoniker": "E:\\Programm\\C#\\Library_System\\Library_System\\Library.Designer.cs",
+              "RelativeDocumentMoniker": "Library_System\\Library.Designer.cs",
+              "ToolTip": "E:\\Programm\\C#\\Library_System\\Library_System\\Library.Designer.cs",
+              "RelativeToolTip": "Library_System\\Library.Designer.cs",
+              "ViewState": "AQIAAEIBAAAAAAAAAAAYwGMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T10:29:09.165Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Library.cs",
+              "DocumentMoniker": "E:\\Programm\\C#\\Library_System\\Library_System\\Library.cs",
+              "RelativeDocumentMoniker": "Library_System\\Library.cs",
+              "ToolTip": "E:\\Programm\\C#\\Library_System\\Library_System\\Library.cs",
+              "RelativeToolTip": "Library_System\\Library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:46:25.127Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Library.cs [Design]",
+              "DocumentMoniker": "E:\\Programm\\C#\\Library_System\\Library_System\\Library.cs",
+              "RelativeDocumentMoniker": "Library_System\\Library.cs",
+              "ToolTip": "E:\\Programm\\C#\\Library_System\\Library_System\\Library.cs [Design]",
+              "RelativeToolTip": "Library_System\\Library.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:28:48.23Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.Designer.cs",
+              "DocumentMoniker": "E:\\Programm\\C#\\Library_System\\Library_System\\Register.Designer.cs",
+              "RelativeDocumentMoniker": "Library_System\\Register.Designer.cs",
+              "ToolTip": "E:\\Programm\\C#\\Library_System\\Library_System\\Register.Designer.cs",
+              "RelativeToolTip": "Library_System\\Register.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:53:08.891Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cs",
+              "DocumentMoniker": "E:\\Programm\\C#\\Library_System\\Library_System\\Register.cs",
+              "RelativeDocumentMoniker": "Library_System\\Register.cs",
+              "ToolTip": "E:\\Programm\\C#\\Library_System\\Library_System\\Register.cs",
+              "RelativeToolTip": "Library_System\\Register.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:52:48.56Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "E:\\Programm\\C#\\Library_System\\Library_System\\Register.cs",
+              "RelativeDocumentMoniker": "Library_System\\Register.cs",
+              "ToolTip": "E:\\Programm\\C#\\Library_System\\Library_System\\Register.cs [Design]",
+              "RelativeToolTip": "Library_System\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:31:28.16Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Programm\\C#\\Library_System\\Library_System\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Library_System\\Form1.Designer.cs",
+              "ToolTip": "E:\\Programm\\C#\\Library_System\\Library_System\\Form1.Designer.cs",
+              "RelativeToolTip": "Library_System\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:00:44.212Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Programm\\C#\\Library_System\\Library_System\\Form1.cs",
+              "RelativeDocumentMoniker": "Library_System\\Form1.cs",
+              "ToolTip": "E:\\Programm\\C#\\Library_System\\Library_System\\Form1.cs",
+              "RelativeToolTip": "Library_System\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:23:38.902Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Programm\\C#\\Library_System\\Library_System\\Form1.cs",
+              "RelativeDocumentMoniker": "Library_System\\Form1.cs",
+              "ToolTip": "E:\\Programm\\C#\\Library_System\\Library_System\\Form1.cs [Design]",
+              "RelativeToolTip": "Library_System\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T08:28:48.357Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
